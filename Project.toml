@@ -1,0 +1,4 @@
+name = "IrisSCPA"
+uuid = "cb89118e-5656-11e9-34fa-4714eb8b3a0f"
+authors = ["William R Sweeney <wrsweeney2@gmail.com>"]
+version = "0.1.0"
